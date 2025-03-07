@@ -1,6 +1,3 @@
-Here's a `README.md` file for your GitHub repository:  
-
-```markdown
 # Random File Renamer for Windows 11  
 
 This Python script renames all files in a specified folder by adding a random two-digit number to the end of each filename while preserving the file extension.  
